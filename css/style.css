@@ -102,7 +102,6 @@ input:focus {
   background-color:  #FAFAFA;
   margin-top: 54px;
   height: 100%;
-  width: 100%;
   display: flex;
   justify-content: center;
   align-items: flex-start;
